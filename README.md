@@ -28,7 +28,7 @@ Here are some ideas to get you started: -->
   <img align="center" alt="Math-GitHub" height="30" width="70" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
   <img align="center" alt="Math-VScode" height="30" width="90" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
   
-  <img align="right" alt="Math-gif" src="https://blog.bsource.com.br/assets/img/programador.gif" width= 500px>
+  <img align="right" alt="Math-gif" src="https://blog.bsource.com.br/assets/img/programador.gif" width= 400px>
   
 </div>
   
