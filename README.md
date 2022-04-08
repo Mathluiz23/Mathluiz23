@@ -10,8 +10,9 @@ Here are some ideas to get you started: -->
 - 🤓🚀 I’m a professional in career transition. Every day more dedicated and motivated to immerse yourself in the area of ​​programming and technology, in order to contribute to people's lives.
 - 💬 Ask me about anything, i am happy to help.
 
-
-![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathluiz23&show_icons=true&theme=dracula&count_private=true)
+<div align="center">
+  ![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathluiz23&show_icons=true&theme=dracula&count_private=true)
+</div>
   
    ### 🛠💻 Tecnologias que eu uso no meu dia
   
