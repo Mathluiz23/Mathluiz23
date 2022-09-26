@@ -10,7 +10,9 @@ Here are some ideas to get you started: -->
 - 🤓🚀 I’m a professional in career transition. Every day more dedicated and motivated to immerse yourself in the area of ​​programming and technology, in order to contribute to people's lives.
 - 💬 Ask me about anything, i am happy to help.
 
-### This is my Portfolio https://mathdev.vercel.app/
+  ### This is my [Portfolio](https://mathdev.vercel.app/)
+
+  ### This is my [Linkedin](https://www.linkedin.com/in/matheus-luiz-dev-web-trybe/)
 
 ---
 
