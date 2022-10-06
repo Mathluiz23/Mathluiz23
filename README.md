@@ -16,7 +16,7 @@
 <div align="center">
   
   <h2>This is my Portfolio</h2>
-  <a href="https://mathdev.vercel.app" target="blank">Portfolio)</a>
+  <a href="https://mathdev.vercel.app" target="blank">Portfolio</a>
 
   <h2>This is my Linkedin</h2>
   <a href="https://www.linkedin.com/in/matheus-luiz-dev-web-trybe/" target="blank">
@@ -177,7 +177,7 @@
   
   ![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathluiz23&show_icons=true&theme=dracula&count_private=true)
   
-  <img  width="580px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathluiz23&layout=compact&langs_count=16&theme=dracula&count"/>
+  <img  width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathluiz23&layout=compact&langs_count=16&theme=dracula&count"/>
   
 </div>
 
