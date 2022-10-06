@@ -1,38 +1,41 @@
-# <div align="center">Hi there 👋 </div>
-# <div align="center">I'm Matheus Luiz da Silva</div>
+# <div align="center">Hi there I'm Matheus 👋 </div>
 
-
-<!--
-**Mathluiz23/Mathluiz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
-- 💻 I’m Web Development Full-Stack.
-- 🇧🇷 I'm a brazilian, 26 years old.
-- 🇮🇪 living in Waterford in Ireland.
-- 🤓🚀 I’m a professional in career transition. Every day more dedicated and motivated to immerse yourself in the area of ​​programming and technology, in order to contribute to people's lives.
-- 💬 Ask me about anything, I am happy to help.
-
-  ## This is my [Portfolio](https://mathdev.vercel.app/)
-
-  ## This is my [Linkedin](https://www.linkedin.com/in/matheus-luiz-dev-web-trybe/)
-
----
-
-<div style="display: flex-row">
+<div align="center">
   
-  ![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathluiz23&show_icons=true&theme=dracula&count_private=true)
+  <h4>🇧🇷 I'm a brazilian, 26 years old.</h4>
+  <h4>🇮🇪 living in Waterford in Ireland.</h4>
   
-  <img  width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathluiz23&layout=compact&langs_count=16&theme=dracula&count"/>
+  <h4>✨🚀 every day more dedicated and motivated to learn new technologies, solve problems and contribute to positively impacting people's lives.</h4>
+  
+  <h4>💬 let's talk, you can call me</h4>
   
 </div>
 
 ---
 
+<div align="center">
+  
+  <h2>This is my Portfolio</h2>
+  <a href="https://mathdev.vercel.app" target="blank">Portfolio)</a>
+
+  <h2>This is my Linkedin</h2>
+  <a href="https://www.linkedin.com/in/matheus-luiz-dev-web-trybe/" target="blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      align="center" alt="LinkedIn" height="40" width="50" title="LinkedIn"
+    />
+  </a>
+  
+</div>
+</br>
+
+---
+
+<div>
 <table align="center">
   <tr>
     <th colspan="2">
-      <h3 align="center"> :hammer:HardSkills / Tools :wrench:</h3>
+      <h1 align="center"> :hammer:  HardSkills / Tools  :wrench:</h1>
     </th>
   </tr>
 
@@ -68,6 +71,7 @@ Here are some ideas to get you started: -->
     <td>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React" title="React"></img></a>
       <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/Redux-indigo?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" title="Redux"></img></a>
+      <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/jquery-darkslategray?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery" title="JQuery"></img></a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/Bootstrap-indianred?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap"></img></a>
       <a href="https://bulma.io/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/Bulma-cyan?style=for-the-badge&logo=bulma&logoColor=white" alt="BULMA" title="BULMA"></img></a>
     </td>
@@ -111,8 +115,9 @@ Here are some ideas to get you started: -->
       <b>Deployment</b>
     </td>
     <td>
+      <a href="https://vercel.com" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" title="Vercel"></img></a>
       <a href="https://heroku.com" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" title="Heroku"></img></a>
-      <a href="https://vercel.com" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Heroku" title="Vercel"></img></a>
+      <a href="https://github.com/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"></img></a>
     </td>
   </tr>
 
@@ -150,17 +155,30 @@ Here are some ideas to get you started: -->
     </td>
   </tr>
 </table>
+</div>
+
 
 ---
   
+<div align="center">
+ 
+  <h1> 🧔 Social Networks </h1>
 
-  
-  ### 🧔 Social Networks
-  
-<div>
   <a href="https://www.instagram.com/mathluiz23/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mathluizs23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/matheus-luiz-da-silva-9bba02119" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+---
+
+<div align="center">
+  
+  <h1> Overview </h1>
+  
+  ![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathluiz23&show_icons=true&theme=dracula&count_private=true)
+  
+  <img  width="580px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathluiz23&layout=compact&langs_count=16&theme=dracula&count"/>
+  
 </div>
 
 <div align="center">
