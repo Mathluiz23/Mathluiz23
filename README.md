@@ -39,7 +39,7 @@
 <table align="center">
   <tr>
     <th colspan="2">
-      <h1 align="center"> :hammer: :wrench: HardSkills | Tools  👨‍💻 </h1>
+      <h1 align="center"> :hammer: HardSkills | Tools   👨‍💻</h1>
     </th>
   </tr>
 
