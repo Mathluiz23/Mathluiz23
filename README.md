@@ -1,15 +1,10 @@
-<!-- markdownlint-disable MD033 MD041 -->
-![Banner](readmeGithub.gif)
-
-<!-- <style type="text/css" rel="stylesheet"></style> -->
-
----
-
-
-
 <div align="center">
 
-  <h1>👋 Hi there I'm Matheus 👋
+<img align="center" src="readmeGithub.gif" width="800" height="400" />
+
+</div>
+
+<div align="center">
   <h4>🇧🇷 I'm a brazilian, 26 years old 👨‍💻
   <h4>🇮🇪 living in Waterford in Ireland 🍀  
   <h4>🚀 every day more dedicated and motivated to learn new technologies, solve problems and contribute to positively impacting people's lives ✨ 
