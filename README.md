@@ -1,12 +1,11 @@
 <div align="center">
-  <h1>Hi there I'm Matheus 👋 
+
+  <h1>👋 Hi there I'm Matheus 👋
   <h4>🇧🇷 I'm a brazilian, 26 years old 👨‍💻
-  <h4>🇮🇪 living in Waterford in Ireland 🍀
-  
-  <h4>🚀 every day more dedicated and motivated to learn new technologies, solve problems and contribute to positively impacting people's lives ✨
-  
+  <h4>🇮🇪 living in Waterford in Ireland 🍀  
+  <h4>🚀 every day more dedicated and motivated to learn new technologies, solve problems and contribute to positively impacting people's lives ✨ 
   <h4>💬 let's talk, you can call me 😃
-  
+
 </div>
 
 ---
