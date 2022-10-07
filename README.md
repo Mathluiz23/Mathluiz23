@@ -1,3 +1,12 @@
+<!-- markdownlint-disable MD033 MD041 -->
+![Banner](readmeGithub.gif)
+
+<!-- <style type="text/css" rel="stylesheet"></style> -->
+
+---
+
+
+
 <div align="center">
 
   <h1>👋 Hi there I'm Matheus 👋
