@@ -1,29 +1,33 @@
-# <div align="center">Hi there I'm Matheus 👋 </div>
-
 <div align="center">
+  <h1>Hi there I'm Matheus 👋 
+  <h4>🇧🇷 I'm a brazilian, 26 years old 👨‍💻
+  <h4>🇮🇪 living in Waterford in Ireland 🍀
   
-  <h4>🇧🇷 I'm a brazilian, 26 years old.</h4>
-  <h4>🇮🇪 living in Waterford in Ireland.</h4>
+  <h4>🚀 every day more dedicated and motivated to learn new technologies, solve problems and contribute to positively impacting people's lives ✨
   
-  <h4>✨🚀 every day more dedicated and motivated to learn new technologies, solve problems and contribute to positively impacting people's lives.</h4>
-  
-  <h4>💬 let's talk, you can call me</h4>
+  <h4>💬 let's talk, you can call me 😃
   
 </div>
 
 ---
 
 <div align="center">
-  
-  <h2>This is my Portfolio</h2>
-  <a href="https://mathdev.vercel.app" target="blank">Portfolio</a>
 
-  <h2>This is my Linkedin</h2>
+  <a href="https://mathdev.vercel.app" target="blank">
+    <img src="https://png2.cleanpng.com/sh/72e717ed96f40fab916b619782b58dd5/L0KzQYm3U8MxN6dtj5H0aYP2gLBuTfNwdaF6jNd7LXnmf7B6TgBweqVrh95ybz3zf8P7hv9tcZCyTdNrZUS2Qoe8UPI1QWgzT6Y9Nkm5R4m4VcIzPGI9TKk5M0OzRnB3jvc=/kisspng-computer-icons-portfolio-portfolio-5abe432650b497.7446967815224184703306.png"
+      align="center" alt="Portfolio" height="100" width="120" title="Portfolio"
+    />
+    <h3>This is my Portfolio 🖥️</h3>
+  </a>
+  
+  </br>
+  
   <a href="https://www.linkedin.com/in/matheus-luiz-dev-web-trybe/" target="blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      align="center" alt="LinkedIn" height="40" width="50" title="LinkedIn"
+      align="center" alt="LinkedIn" height="70" width="90" title="LinkedIn"
     />
+    <h3>This is my Linkedin 🎭 </h3>
   </a>
   
 </div>
@@ -35,7 +39,7 @@
 <table align="center">
   <tr>
     <th colspan="2">
-      <h1 align="center"> :hammer:  HardSkills / Tools  :wrench:</h1>
+      <h1 align="center"> :hammer: :wrench: HardSkills | Tools  👨‍💻 </h1>
     </th>
   </tr>
 
@@ -173,7 +177,7 @@
 
 <div align="center">
   
-  <h1> Overview </h1>
+  <h1> 🥇 Overview  ✔️ </h1>
   
   ![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathluiz23&show_icons=true&theme=dracula&count_private=true)
   
