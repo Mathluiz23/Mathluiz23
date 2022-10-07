@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="center" src="readmeGithub.gif" width="800" height="400" />
+<img align="center" src="readmeGithub.gif" width="750" height="300" />
 
 </div>
 
