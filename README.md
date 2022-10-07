@@ -5,10 +5,10 @@
 </div>
 
 <div align="center">
-  <h4>🇧🇷 I'm a brazilian, 26 years old 👨‍💻
-  <h4>🇮🇪 living in Waterford in Ireland 🍀  
-  <h4>🚀 every day more dedicated and motivated to learn new technologies, solve problems and contribute to positively impacting people's lives ✨ 
-  <h4>💬 let's talk, you can call me 😃
+  <h3>🇧🇷 I'm a brazilian, 26 years old 👨‍💻
+  <h3>🇮🇪 living in Waterford in Ireland 🍀  
+  <h3>🚀 every day more dedicated and motivated to learn new technologies, solve problems and contribute to positively impacting people's lives ✨ 
+  <h3>💬 let's talk, you can call me 😃
 
 </div>
 
@@ -180,7 +180,7 @@
 
 <div align="center">
   
-  <h1> 🥇 Overview  ✔️ </h1>
+  <h1> 🥇 Overview </h1>
   
   ![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathluiz23&show_icons=true&theme=dracula&count_private=true)
   
