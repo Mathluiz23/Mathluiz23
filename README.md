@@ -17,7 +17,7 @@
 <div align="center">
 
   <a href="https://mathdev.vercel.app" target="blank">
-    <img src="https://png2.cleanpng.com/sh/72e717ed96f40fab916b619782b58dd5/L0KzQYm3U8MxN6dtj5H0aYP2gLBuTfNwdaF6jNd7LXnmf7B6TgBweqVrh95ybz3zf8P7hv9tcZCyTdNrZUS2Qoe8UPI1QWgzT6Y9Nkm5R4m4VcIzPGI9TKk5M0OzRnB3jvc=/kisspng-computer-icons-portfolio-portfolio-5abe432650b497.7446967815224184703306.png"
+    <img src="https://img1.gratispng.com/20180331/bcw/kisspng-directory-computer-icons-clip-art-folders-5abf1ab69e2588.4481766415224736546478.jpg"
       align="center" alt="Portfolio" height="100" width="120" title="Portfolio" href="https://mathdev.vercel.app" target="_blank"
     />
     <h3>This is my Portfolio 🖥️</h3>
