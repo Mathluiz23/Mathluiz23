@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <h3>🇧🇷 I'm a brazilian, 26 years old 👨‍💻
-  <h3>🇮🇪 living in Waterford in Ireland 🍀  
+  <h3>🇧🇷 I'm a brazilian, 28 years old 👨‍💻
+  <h3>lived in Ireland for 1 year and 6 months and currently living in New Zealand 🍀  
   <h3>🚀 every day more dedicated and motivated to learn new technologies, solve problems and contribute to positively impacting people's lives ✨ 
   <h3>💬 let's talk, you can call me 😃
 
