@@ -18,7 +18,7 @@
 
   <a href="https://mathdev.vercel.app" target="blank">
     <img src="https://img1.gratispng.com/20180331/bcw/kisspng-directory-computer-icons-clip-art-folders-5abf1ab69e2588.4481766415224736546478.jpg"
-      align="center" alt="Portfolio" height="100" width="120" title="Portfolio" href="https://mathdev.vercel.app" target="_blank"
+      align="" alt="Portfolio" height="30" width="35" title="Portfolio" href="https://mathdev.vercel.app" target="_blank"
     />
     <h3>This is my Portfolio 🖥️</h3>
   </a>
@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/matheus-luiz-dev-web-trybe/" target="blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      align="center" alt="LinkedIn" height="70" width="90" title="LinkedIn"
+      align="" alt="LinkedIn" height="20" width="40" title="LinkedIn"
     />
     <h3>This is my Linkedin 🎭 </h3>
   </a>
