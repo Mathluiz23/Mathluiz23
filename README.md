@@ -1,48 +1,15 @@
-<div align="center">
-
-<img align="center" src="readmeGithub.gif" width="750" height="300" />
-
-</div>
-
-<div align="center">
-  <h3>🇧🇷 I'm a brazilian, 28 years old 👨‍💻
-  <h3> 
-  <h3>🚀 every day more dedicated and motivated to learn new technologies, solve problems and contribute to positively impacting people's lives ✨ 
-  <h3>💬 let's talk, you can call me 😃
-
-</div>
+| ![readmeGithub](readmeGithub.gif) <!-- Coloque o caminho correto da imagem --> | 🇧🇷 I'm a brazilian, 28 years old 👨‍💻<br><br> 🚀 Every day more dedicated and motivated to learn new technologies, solve problems, and contribute to positively impacting people's lives ✨<br><br> 💬 Let's talk 😃 <br>  <br>  <a href="https://mathdev.vercel.app" target="_blank">This is my Portfolio 🖥️ </a> <br> <br> <a href="https://www.linkedin.com/in/matheus-luiz-developer/" target="blank">This is my Linkedin 🎭 </a>|
+|---|---|
 
 ---
 
-<div align="center">
-
-  <a href="https://mathdev.vercel.app" target="blank">
-    <img src="https://img1.gratispng.com/20180331/bcw/kisspng-directory-computer-icons-clip-art-folders-5abf1ab69e2588.4481766415224736546478.jpg"
-      align="" alt="Portfolio" height="30" width="35" title="Portfolio" href="https://mathdev.vercel.app" target="_blank"
-    />
-    <h3>This is my Portfolio 🖥️</h3>
-  </a>
-  
-  </br>
-  
-  <a href="https://www.linkedin.com/in/matheus-luiz-dev-web-trybe/" target="blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      align="" alt="LinkedIn" height="20" width="40" title="LinkedIn"
-    />
-    <h3>This is my Linkedin 🎭 </h3>
-  </a>
-  
-</div>
 </br>
-
----
 
 <div>
 <table align="center">
   <tr>
     <th colspan="2">
-      <h1 align="center"> :hammer: HardSkills | Tools   👨‍💻</h1>
+      <h2 align="center"> :hammer: HardSkills | Tools   👨‍💻</h1>
     </th>
   </tr>
 
@@ -179,7 +146,7 @@
 
 ---
 <div align="center">
-   <h1> :book: What I wanna learn next
+   <h2> :book: What I wanna learn next
    </br>
    </br>
    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
@@ -195,10 +162,9 @@
 </div>
 
 <div align="center">
-    <h1> 🧔 Social Networks
+    <h2> 🧔 Social Networks
     </br>
     </br>
-    <a href="https://www.instagram.com/mathluiz23/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:mathluizs23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://br.linkedin.com/in/matheus-luiz-da-silva-9bba02119" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
      <a href="https://www.codewars.com/users/Mathluiz23" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>  
@@ -207,13 +173,12 @@
 
 <div align="center">
   
-  <h3>🥇Overview
+  <h4>🥇Overview
   </br>
   </br>
   
-  ![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathluiz23&show_icons=true&theme=dracula&count_private=true)
   
-  <img  width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathluiz23&layout=compact&langs_count=16&theme=dracula&count"/>
+  <img  width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathluiz23&layout=compact&langs_count=5200&theme=dracula&count"/>
   
 </div>
 
