@@ -1,7 +1,7 @@
-| ![readmeGithub](readmeGithub.gif) <!-- Coloque o caminho correto da imagem --> | 🇧🇷 I'm a brazilian, 28 years old 👨‍💻<br><br> 🚀 Every day more dedicated and motivated to learn new technologies, solve problems, and contribute to positively impacting people's lives ✨<br><br> 💬 Let's talk 😃 <br>  <br>  <a href="https://mathdev.vercel.app" target="_blank">This is my Portfolio 🖥️ </a> <br> <br> <a href="https://www.linkedin.com/in/matheus-luiz-developer/" target="blank">This is my Linkedin 🎭 </a>|
-|---|---|
+<div align="center"> 
+  🇧🇷 I'm a brazilian, 28 years old 👨‍💻<br><br> 🚀 Every day more dedicated and motivated to learn new technologies, solve problems, and contribute to positively impacting people's lives✨<br><br> 💬 Let's talk 😃 <br>  <br>
+</div>
 
----
 
 </br>
 
