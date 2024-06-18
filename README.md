@@ -1,11 +1,9 @@
-<div align="center"> 
-  🇧🇷 I'm a brazilian, 28 years old 👨‍💻<br><br> 🚀 Every day more dedicated and motivated to learn new technologies, solve problems, and contribute to positively impacting people's lives✨<br><br> 💬 Let's talk 😃 <br>  <br>
-</div>
+
+ <h2 align="center"> 🇧🇷  I'm a brazilian, 28 years old 👨‍💻<br><br> 🚀 Every day more dedicated and motivated to learn new technologies, solve problems, and contribute to positively impacting people's lives✨ <br><br>
+   💬 Let's talk 😃 <br><br>
+ </h2>
 
 
-</br>
-
-<div>
 <table align="center">
   <tr>
     <th colspan="2">
@@ -142,10 +140,10 @@
     </td>
   </tr>
 </table>
-</div>
+</>
 
 ---
-<div align="center">
+  <div align="center">
    <h2> :book: What I wanna learn next
    </br>
    </br>
@@ -158,8 +156,9 @@
    <img src="https://img.shields.io/badge/vue-darkgreen?style=for-the-badge&logo=vue.js&logoColor=white"/>
    <img src="https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white"/>
    <img src="https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=Cypress&logoColor=white"/>
+   </>
 
-</div>
+
 
 <div align="center">
     <h2> 🧔 Social Networks
