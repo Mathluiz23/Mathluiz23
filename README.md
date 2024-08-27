@@ -1,15 +1,10 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" height="220px" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" height="220px" style="display:inline;">
-
-----
+<br>
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=21+Code&pause=900&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Matheus+%F0%9F%91%8B;I+love+coding+and+creating+new+things;Welcome+to+my+GitHub!" alt="Typing SVG">
+<p align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Matheus+%F0%9F%91%8B;I+love+coding+and+creating+new+things;Welcome+to+my+GitHub!" alt="Typing SVG">
 </p>
 
-<br>
-
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/55182023/116236951-1b2d4000-a760-11eb-9e29-c197f2a7f76a.gif" width="60%" style="display:inline;">
@@ -18,9 +13,6 @@
 <br>
 <br>
 
-
-
-### Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
