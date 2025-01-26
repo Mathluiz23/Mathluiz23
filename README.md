@@ -92,12 +92,11 @@
 
 ### 🥇 GitHub Stats:
 <div align="center" style="display: flex; justify-content: center;">
-<!--    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Mathluiz23&show_icons=true&theme=dark"/> -->
-   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathluiz23&layout=compact&langs_count=8&theme=dracula"/>
+   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathluiz23&layout=compact&langs_count=8&theme=dracula&token=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"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathluiz23&show_icons=true&theme=dark&include_all_commits=false"/>
-
+   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Mathluiz23&show_icons=true&theme=dark&include_all_commits=false&token=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"/>
 </div>
+
 
 
 
