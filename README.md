@@ -1,6 +1,7 @@
 <br>
 <br>
 
+
 <p align="center" >
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Matheus+%F0%9F%91%8B;I+love+coding+and+creating+new+things;Welcome+to+my+GitHub!" alt="Typing SVG">
 </p>
@@ -90,7 +91,12 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
+<div>
+  <img src="https://profile-counter.glitch.me/MathLuiz23/count.svg" alt="Visitor's Count" />
+</div>
+
 ### 🥇 GitHub Stats:
+
 <div align="center" style="display: flex; justify-content: center;">
    <img width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathluiz23&layout=compact&langs_count=8&theme=dracula&token=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"/>
 
