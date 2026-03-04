@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-luiz-developer/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://mathdev.vercel.app/" target="_blank">
